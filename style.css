@@ -1,5 +1,10 @@
 /* ---------@media qurey  ---------*/
-
+@media only screen and(max-width:688) {
+    .container{
+        background-color: coral;
+    }
+    
+}
 
 body{
     font-family: 'Roboto Slab', serif;
